@@ -1,2 +1,6 @@
 # jenkins_test
-this is my first jenkins build
+> mvn install
+> cd target/classes/
+> java somePackage.HelloWorld
+Hello, world!
+>_
